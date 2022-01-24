@@ -9,37 +9,6 @@
 
 ---
 
-## 💼 My Career
-
-> **2021.02.03 ~ 2021.09.03 YBMnet**
-> 
-
-* YBMnet의 [교원연수사이트](https://www.ybmteachers.com/index.asp?gclid=CjwKCAiA0KmPBhBqEiwAJqKK4wvSFbqP9WND-a2IwVdB1HuMEv3USqN7Rl15Lub03_LtpDPgjnDSPhoCXHMQAvD_BwE)의 백엔드 유지 및 보수를 담당하였습니다.
-* 개발자(관리자), 강의자(운영자), 교원(사용자)의 권한에 따라 관리자 페이지의 접근과 사용을 따로 적용하였습니다.
-* 사용 언어
-    * ASP / PHP
-* Database
-    * MS-SQL
-* Tool
-    * Visual Studio Code, SSMS
-* 형상관리
-    * Git(tortoiseGit), Jenkins, Redmine
-
-> **2021.09.06 ~ CyberLogitec**
-> 
-
-* 해외 고객사(ONE)와의 해운 모듈 service를 담당하고 있습니다.
-* 사용 언어
-    * Java(Spring MVC)
-* Database
-    * Oracle
-* Tool
-    * Eclipse IDE, Orange
-* 형상관리
-    * Serena, JIRA
-
----
-
 ## 🛠 My Tech Stack.
 
 <p align="center">
@@ -129,6 +98,36 @@
     * 2인 프로젝트, 어플리케이션 제작 전체 진행
 
 
+---
+
+## 💼 My Career
+
+> **2021.02.03 ~ 2021.09.03 YBMnet**
+> 
+
+* YBMnet의 [교원연수사이트](https://www.ybmteachers.com/index.asp?gclid=CjwKCAiA0KmPBhBqEiwAJqKK4wvSFbqP9WND-a2IwVdB1HuMEv3USqN7Rl15Lub03_LtpDPgjnDSPhoCXHMQAvD_BwE)의 백엔드 유지 및 보수를 담당하였습니다.
+* 개발자(관리자), 강의자(운영자), 교원(사용자)의 권한에 따라 관리자 페이지의 접근과 사용을 따로 적용하였습니다.
+* 사용 언어
+    * ASP / PHP
+* Database
+    * MS-SQL
+* Tool
+    * Visual Studio Code, SSMS
+* 형상관리
+    * Git(tortoiseGit), Jenkins, Redmine
+
+> **2021.09.06 ~ CyberLogitec**
+> 
+
+* 해외 고객사(ONE)와의 해운 모듈 service를 담당하고 있습니다.
+* 사용 언어
+    * Java(Spring MVC)
+* Database
+    * Oracle
+* Tool
+    * Eclipse IDE, Orange
+* 형상관리
+    * Serena, JIRA
  
 ---
 
