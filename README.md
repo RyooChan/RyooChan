@@ -2,8 +2,6 @@
 
 **✏️ [Hello-backend!!](https://hello-backend.tistory.com/)**
 
- ![github](https://i.imgur.com/J2Ni6uL.png =20x20) : [**RyooChan**](https://github.com/RyooChan)
-
 ## 류찬
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=fbcks97)](https://solved.ac/fbcks97)
 
