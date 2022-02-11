@@ -68,11 +68,14 @@
 ### Mini projects
 > 실력을 키우기 위해, 다양한 환경에 적응하기 위해 여러 언어를 경험하고 새로운 것을 시도하며 조금씩 만들어가는 미니 프로젝트입니다.
 
+#### Now Doing...
+* [spring boot를 사용한 게시판 구현](https://github.com/RyooChan/springboot_board)
+    * 0 to 100. 예제를 통해 얻은 지식을 사용하여 게시판 만들기(진행중..)
+    * https://13.124.106.98:8443/
+
 #### With Spring boot
 * [spring 기초 스터디](https://github.com/RyooChan/spring-study)
     * 간단한 예제를 활용한 Spring boot기초 쌓기
-* [spring boot를 사용한 게시판 구현](https://github.com/RyooChan/springboot_board)
-    * 0 to 100. 예제를 통해 얻은 지식을 사용하여 게시판 만들기(진행중..)
 
 #### With java(algorithm, java, android)
 * [간단한 계산기 어플리케이션 만들기](https://github.com/RyooChan/calculator)
@@ -125,11 +128,11 @@
 * 사용 언어
     * Java(Spring MVC)
 * Database
-    * Oracle
+    * Oracle, neo4j
 * Tool
     * Eclipse IDE, Orange
 * 형상관리
-    * Serena, JIRA
+    * Serena, JIRA, Git
  
 ---
 
