@@ -71,7 +71,7 @@
 #### Now Doing...
 * [spring boot를 사용한 게시판 구현](https://github.com/RyooChan/springboot_board)
     * 0 to 100. 예제를 통해 얻은 지식을 사용하여 게시판 만들기(진행중..)
-    * https://13.124.106.98:8443/
+    * https://ec2-13-124-106-98.ap-northeast-2.compute.amazonaws.com:8443/
 
 #### With Spring boot
 * [spring 기초 스터디](https://github.com/RyooChan/spring-study)
