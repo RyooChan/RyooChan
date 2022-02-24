@@ -125,6 +125,7 @@
 > 
 
 * 해외 고객사(ONE)와의 해운 모듈 service를 담당하고 있습니다.
+    * Spring boot REST api를 사용한 Digital guide제작 프로젝트 진행중.
 * 사용 언어
     * Java(Spring MVC)
 * Database
