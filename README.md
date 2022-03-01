@@ -72,8 +72,6 @@
 * [spring boot를 사용한 게시판 구현](https://github.com/RyooChan/springboot_board)
     * 0 to 100. 예제를 통해 얻은 지식을 사용하여 게시판 만들기(진행중..)
     * https://ec2-13-124-106-98.ap-northeast-2.compute.amazonaws.com:8443/
-* [spring boot와 REST api를 제작하는 방법에 관한 포스트 작성](https://hello-backend.tistory.com/114)
-    * RESTful한 방식으로 api를 만드는 방법과, 이 때 필요한 여러 개발 지식에 관한 내용 작성
 
 #### With Spring boot
 * [spring 기초 스터디](https://github.com/RyooChan/spring-study)
@@ -103,7 +101,6 @@
 #### With Kotlin
 * [날씨에 따른 패션 추천 어플리케이션 제작](https://github.com/RyooChan/weather_fashion)
     * 2인 프로젝트, 어플리케이션 제작 전체 진행
-
 
 ---
 
