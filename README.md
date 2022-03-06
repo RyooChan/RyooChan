@@ -123,14 +123,13 @@
 > **2021.09.06 ~ CyberLogitec**
 > 
 
-* 해외 고객사(ONE)와의 해운 모듈 service를 담당하고 있습니다.
-    * Spring boot REST api를 사용한 Digital guide제작 프로젝트 진행중.
+* Spring boot REST api를 사용한 Digital guide제작 프로젝트 진행중.
 * 사용 언어
-    * Java(Spring MVC)
+    * Java(Spring boot MVC)
 * Database
-    * Oracle, neo4j
+    * Oracle(Mybatis, Spring Data JPA), neo4j
 * Tool
-    * Eclipse IDE, Orange
+    * Eclipse IDE, STS, Orange
 * 형상관리
     * Serena, JIRA, Git
  
