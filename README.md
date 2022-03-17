@@ -76,6 +76,8 @@
 #### With Spring boot
 * [spring 기초 스터디](https://github.com/RyooChan/spring-study)
     * 간단한 예제를 활용한 Spring boot기초 쌓기
+* [Study for JPA](https://github.com/RyooChan/jpabook)
+* [Study for Spring Data JPA](https://github.com/RyooChan/data-jpa)
 
 #### With java(algorithm, java, android)
 * [간단한 계산기 어플리케이션 만들기](https://github.com/RyooChan/calculator)
