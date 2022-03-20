@@ -78,6 +78,7 @@
     * 간단한 예제를 활용한 Spring boot기초 쌓기
 * [Study for JPA](https://github.com/RyooChan/jpabook)
 * [Study for Spring Data JPA](https://github.com/RyooChan/data-jpa)
+* [Study for Querydsl](https://github.com/RyooChan/querydsl)
 
 #### With java(algorithm, java, android)
 * [간단한 계산기 어플리케이션 만들기](https://github.com/RyooChan/calculator)
