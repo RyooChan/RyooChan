@@ -105,7 +105,7 @@
 * [날씨에 따른 패션 추천 어플리케이션 제작](https://github.com/RyooChan/weather_fashion)
     * 2인 프로젝트, 어플리케이션 제작 전체 진행
 
----
+<!-- ---
 
 ## 💼 My Career
 
@@ -134,7 +134,8 @@
 * Tool
     * Eclipse IDE, STS, Orange
 * 형상관리
-    * Serena, JIRA, Git
+    * Serena, JIRA, Git 
+-->
  
 ---
 
