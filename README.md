@@ -65,13 +65,7 @@
 
 ---
 
-### Mini projects
-> 실력을 키우기 위해, 다양한 환경에 적응하기 위해 여러 언어를 경험하고 새로운 것을 시도하며 조금씩 만들어가는 미니 프로젝트입니다.
-
-#### Now Doing...
-* [spring boot를 사용한 게시판 구현](https://github.com/RyooChan/springboot_board)
-    * 0 to 100. 예제를 통해 얻은 지식을 사용하여 게시판 만들기(진행중..)
-    * AWS프리티어 만료로 인해 서버 해제
+### Mini project
 
 #### With Spring boot
 * [spring 기초 스터디](https://github.com/RyooChan/spring-study)
@@ -80,6 +74,9 @@
 * [Study for Spring Data JPA](https://github.com/RyooChan/data-jpa)
 * [Study for Querydsl](https://github.com/RyooChan/querydsl)
 * [Study for Spring Batch](https://github.com/RyooChan/SpringBatchStudy)
+* [spring boot를 사용한 게시판 구현](https://github.com/RyooChan/springboot_board)
+    * 0 to 100. 예제를 통해 얻은 지식을 사용하여 게시판 만들기(진행중..)
+    * AWS프리티어 만료로 인해 서버 해제
 
 #### With java(algorithm, java, android)
 * [간단한 계산기 어플리케이션 만들기](https://github.com/RyooChan/calculator)
