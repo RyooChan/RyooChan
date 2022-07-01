@@ -75,7 +75,7 @@
 * [Study for Querydsl](https://github.com/RyooChan/querydsl)
 * [Study for Spring Batch](https://github.com/RyooChan/SpringBatchStudy)
 * [spring boot를 사용한 게시판 구현](https://github.com/RyooChan/springboot_board)
-    * 0 to 100. 예제를 통해 얻은 지식을 사용하여 게시판 만들기(진행중..)
+    * 0 to 100. 예제를 통해 얻은 지식을 사용하여 게시판 만들기(HOLD)
     * AWS프리티어 만료로 인해 서버 해제
 
 #### With java(algorithm, java, android)
