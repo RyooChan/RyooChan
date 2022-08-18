@@ -1,6 +1,6 @@
 📧 **fbcks97@naver.com**
 
-**✏️ [Hello-backend!!](https://hello-backend.tistory.com/)**
+**✏️ [Tech Blog](https://hello-backend.tistory.com/)**
 
 ## 류찬
 <div align="center">
