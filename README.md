@@ -31,11 +31,3 @@
 </p>
 
 ---
-
-- Personal Project
-    - [Spring boot 게시판](https://github.com/RyooChan/springboot_board)
-    - [JPA study project](https://github.com/RyooChan/jpabook)
-    - [Spring data JPA study project](https://github.com/RyooChan/data-jpa)
-    - [Querydsl study project](https://github.com/RyooChan/querydsl)
-    - [Spring Batch study project](https://github.com/RyooChan/SpringBatchStudy)
-    - [동시성 이슈 관련 study project](https://github.com/RyooChan/stock)
