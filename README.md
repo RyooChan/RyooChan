@@ -15,7 +15,6 @@
 ---
 
 - Personal Project
-    - [Spring boot 게시판](https://github.com/RyooChan/springboot_board)
     - [JPA study project](https://github.com/RyooChan/jpabook)
     - [Spring data JPA study project](https://github.com/RyooChan/data-jpa)
     - [Querydsl study project](https://github.com/RyooChan/querydsl)
