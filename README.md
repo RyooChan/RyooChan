@@ -10,24 +10,31 @@
 </div>
 
 ---
-
-## 🛠 My Tech Stack.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/gitHub-181717?style=for-the-badge&logo=gitHub&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-</p>
+## ⚒ Spring Boot 
 
 ---
+
+- Personal Project
+    - [Spring boot 게시판](https://github.com/RyooChan/springboot_board)
+    - [JPA study project](https://github.com/RyooChan/jpabook)
+    - [Spring data JPA study project](https://github.com/RyooChan/data-jpa)
+    - [Querydsl study project](https://github.com/RyooChan/querydsl)
+    - [Spring Batch study project](https://github.com/RyooChan/SpringBatchStudy)
+    - [동시성 문제 해결 기초 study project](https://github.com/RyooChan/stock)
+    - [대규모 트래픽 처리 study project](https://github.com/RyooChan/coffee_traffic_study)
+- Team Project
+    - [디프만 11기 프로젝트](https://github.com/RyooChan/sulsul-BE/tree/dev) - beerAir
+    
+
+## 🛠 Other projects
+
+---
+
+- javascript Personal Project
+    - [Minesweeper](https://github.com/RyooChan/MineSweeper)
+    - [VanillaJS_paint](https://github.com/RyooChan/vanillaJS_paint)
+- Small Toy Projects
+    - [PHP boards](https://github.com/RyooChan/PHPboard)
+    - [JSP boards](https://github.com/RyooChan/JSP_CRUD)
+- Hanium Project
+    - https://github.com/RyooChan/hanium_IoTDoorlock
