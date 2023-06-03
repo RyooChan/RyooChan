@@ -25,7 +25,6 @@
     - [대규모 트래픽 처리 study project](https://github.com/RyooChan/coffee_traffic_study)
 - Team Project
     - [디프만 11기 프로젝트](https://github.com/RyooChan/sulsul-BE/tree/dev) - beerAir
-    - [짤 줍 머 니](https://github.com/memewiki/memewiki-api-core) - memewiki
     
 
 ## 🛠 Other projects
