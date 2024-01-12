@@ -21,6 +21,7 @@
     - [Spring data JPA study project](https://github.com/RyooChan/data-jpa)
     - [Querydsl study project](https://github.com/RyooChan/querydsl)
     - [Spring Batch study project](https://github.com/RyooChan/SpringBatchStudy)
+    - [레디스 파이프라인 개념 공부하기](https://github.com/RyooChan/redis-pipeline)
     - [동시성 문제 해결 기초 study project](https://github.com/RyooChan/stock)
     - [대규모 트래픽 처리 study project](https://github.com/RyooChan/coffee_traffic_study)
 - Team Project
