@@ -48,18 +48,3 @@
 
 - [Today I Learned](https://github.com/RyooChan/TIL)
 
----
-
-## 알고리즘을 종류별로 풀어보자
-
-- [ ] DP
-- [ ] Greedy
-- [ ] DFS
-- [ ] BFS
-- [ ] 백트레킹
-- [ ] 슬라이딩 윈도우
-- [ ] 브루트 포스
-- [ ] 이분 탐색
-- [ ] 분할 정복
-
-
